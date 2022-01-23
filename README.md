@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
-Tic Tac Toe game built using Python
-Problem Statement:
+Tic Tac Toe game built using Python       
+
 1. Create a Tic Tac Toe game with the following conditions
 - Player ‘O’ should start the game by placing ‘O’ only at the
 diagonals (in the first round alone). You can place it anywhere
